@@ -26,3 +26,6 @@
 ---
 
 ### :man_technologist: About me:
++ :construction_worker: I'm working as design engineer;
++ :muscle: Student of Vadim Ksendzov's QA-courses;
++ :sob: In my free time... Who am I kidding? I don't have any free time.
