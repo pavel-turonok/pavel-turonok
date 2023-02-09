@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="500" height="250"/>
 </div>
 
 <div id="badges" align="center">
@@ -22,3 +22,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :man_technologist: About me:
