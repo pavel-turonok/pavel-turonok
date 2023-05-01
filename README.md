@@ -10,20 +10,21 @@
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a> 
 </div>  
-
-<div id="badges" align="center">
-  <a href="https://drive.google.com/file/d/1fjm8AZtnQdmBAXpSGyjCteq8IZrtBumd/view?usp=share_link">
-  <img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="100" height="100"/>
-  </a>  
-</div>  
-    
+     
 <div id="badges" align="center">   
 <img src="https://komarev.com/ghpvc/?username=pavel-turonok&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
++ ### My ENG CV <a href="https://drive.google.com/file/d/1fjm8AZtnQdmBAXpSGyjCteq8IZrtBumd/view?usp=share_link"><img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="40" height="40"/>
+</a> 
 
-### :man_technologist: About me:
++ ### My RUS CV <a href=""><img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="40" height="40"/>
+</a> 
+
+---
+
+### :man_technologist: A few words about me:
 + :construction_worker: I'm working as design engineer;
 + :muscle: Student of Vadim Ksendzov's QA-courses;
 + :sob: In my free time... Who am I kidding? I don't have any free time.
