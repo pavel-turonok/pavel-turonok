@@ -8,16 +8,13 @@
   </a> 
   <a href="https://web.telegram.org/k/">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1fjm8AZtnQdmBAXpSGyjCteq8IZrtBumd/view?usp=share_link">
-  <img src="https://img.shields.io/badge/CV-blue?&style=for-the-badge" alt="CV Badge"/>
-  </a>  
+  </a> 
 </div>  
 
 <div id="badges" align="center">
-  
-![https://flyclipart.com/thumb2/cv-png-images-resume-png-237603.png](https://drive.google.com/file/d/1fjm8AZtnQdmBAXpSGyjCteq8IZrtBumd/view?usp=share_link)
-
+  <a href="https://drive.google.com/file/d/1fjm8AZtnQdmBAXpSGyjCteq8IZrtBumd/view?usp=share_link">
+  <img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="100" height="100"/>
+  </a>  
 </div>  
     
 <div id="badges" align="center">   
