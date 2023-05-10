@@ -16,10 +16,7 @@
 </div>
 
 ---
-+ ### My ENG CV <a href="https://drive.google.com/file/d/1fjm8AZtnQdmBAXpSGyjCteq8IZrtBumd/view?usp=share_link"><img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="40" height="40"/>
-</a> 
-
-+ ### My RUS CV <a href="https://drive.google.com/file/d/1uqlbZEK2pDisCFYVk0SSvYqfdf10b5cy/view?usp=share_link"><img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="40" height="40"/>
+### Here you can check my CV ---> <a href="https://drive.google.com/drive/folders/19ncpiNpkm_fZHn2aK0A_VasbIoqDvUuK?usp=share_link"><img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="40" height="40"/>
 </a> 
 
 ---
